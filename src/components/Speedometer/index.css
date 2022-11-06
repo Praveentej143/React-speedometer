@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.container {
+  background-color: #07080c;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+}
+.heading {
+  color: #ffffff;
+}
+.speed-meter-img {
+  width: 50vw;
+}
+.speed {
+  color: #ffffff;
+  font-size: 22px;
+}
+.desc {
+  color: #cbd5e1;
+}
+.btn-accelrate {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 6px 12px;
+  border-radius: 6px;
+  margin-right: 14px;
+}
+.brake-btn {
+  background-color: transparent;
+  color: #94a3b8;
+  border: 2px solid #94a3b8;
+  border-radius: 6px;
+  padding: 4px 8px;
+}
